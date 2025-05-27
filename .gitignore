@@ -1,0 +1,26 @@
+
+# Backend (Rails)
+tnr-backend/log/*
+tnr-backend/tmp/*
+tnr-backend/config/master.key
+tnr-backend/config/credentials.yml.enc
+tnr-backend/storage/*
+
+# Frontend (React)
+tnr-frontend/node_modules/
+tnr-frontend/build/
+tnr-frontend/.env.local
+tnr-frontend/.env.development.local
+tnr-frontend/.env.test.local
+tnr-frontend/.env.production.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+EOF
